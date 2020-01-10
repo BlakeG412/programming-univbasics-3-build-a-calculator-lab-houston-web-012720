@@ -29,7 +29,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  product = Math.sin(num)
+  product = Math.sqrt(num)
   puts product
   product
 end
